@@ -15,6 +15,6 @@ Explaination:
     vi. profile picture address
     vii. cover picture address
     
-*3. if any functionality or searching error occcur, then it returns error(this code removed from code due to customer requirement.)
+***3. if any functionality or searching error occcur, then it returns error(this code removed from code due to customer requirement.)
 
 4. return format of data is json.
