@@ -6,7 +6,7 @@ Then i thought, maybe there can be many other people who neeed this code some i 
 Explaination:
 1. there is a function/method named 'fetcher' who takes channel name as prameter.
 
-2. After calling this function it return following:
+2. After calling this function it return following:<br/)
     i) channel subscriber amount
     ii) total view on channel
     iii) channel type
