@@ -19,4 +19,4 @@ Explaination:
 
 4. return format of data is json.
 
-***Basically this code get data from "https://socialblade.com".***
+***Basically this code get data from "https://socialblade.com".*** And return a json coded data array.
