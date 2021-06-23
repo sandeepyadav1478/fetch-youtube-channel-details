@@ -1,6 +1,6 @@
 # Youtube Channel Details
 
-Wrote this code on the requirement of some customer.
+Wrote this code on the requirement of a customer.
 Then i thought, maybe there can be many other people who neeed this code some i uploaded it on github with creative commen license. So anyone can use this code.
 
 Explaination:
